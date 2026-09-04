@@ -7,7 +7,7 @@ about:
   head: fce9a8c
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:56:59Z
+  collectedAt: 2026-09-04T20:45:35Z
 timeline:
   created: 2021-12-17
   lastCommit: 2021-12-20
@@ -81,5 +81,33 @@ total:
   openIssue: 1
   commit: 54
 ---
+path: /home/runner/.x-repo/github.com/Mayowa-Ojo/chmod-cli
+collectedAt: 2026-09-04T20:45:35Z
+loc:
+  Go:
+    code: 1175
+    comments: 17
+    blanks: 308
+    files: 11
+  Makefile:
+    code: 11
+    comments: 1
+    blanks: 6
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 45
+    blanks: 13
+    files: 1
+total:
+  code: 1187
+  comments: 63
+  blanks: 327
+  files: 14
 ---
 
