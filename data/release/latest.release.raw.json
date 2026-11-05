@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 714,
       "digest": null,
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2021-12-17T18:18:41Z",
       "updated_at": "2021-12-17T18:18:41Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1580766,
       "digest": null,
-      "download_count": 149,
+      "download_count": 150,
       "created_at": "2021-12-17T18:18:42Z",
       "updated_at": "2021-12-17T18:18:42Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1609699,
       "digest": null,
-      "download_count": 81,
+      "download_count": 82,
       "created_at": "2021-12-17T18:18:42Z",
       "updated_at": "2021-12-17T18:18:42Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1415940,
       "digest": null,
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2021-12-17T18:18:41Z",
       "updated_at": "2021-12-17T18:18:42Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1471545,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2021-12-17T18:18:41Z",
       "updated_at": "2021-12-17T18:18:41Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1550131,
       "digest": null,
-      "download_count": 604,
+      "download_count": 606,
       "created_at": "2021-12-17T18:18:42Z",
       "updated_at": "2021-12-17T18:18:43Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1580800,
       "digest": null,
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2021-12-17T18:18:43Z",
       "updated_at": "2021-12-17T18:18:43Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Windows_i386.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1626588,
       "digest": null,
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2021-12-17T18:18:42Z",
       "updated_at": "2021-12-17T18:18:42Z",
       "browser_download_url": "https://github.com/Mayowa-Ojo/chmod-cli/releases/download/v0.2.0/chmod-cli_0.2.0_Windows_x86_64.tar.gz"
